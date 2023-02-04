@@ -44,7 +44,7 @@
                 loadingProgress.textContent = '97';
                 // we use ip-api.com for the next request, but using their api over https requires an api key so unfortunately we need to proxy it
                 // yes, i agree, that is the weirdest limitation ever for an api but whatever lol
-                const detailed = await (await fetch(`https://we-are-jammin.xyz/detailed/${basic.YourFuckingIPAddress}`).catch(() => e('Disable your aggressive ad-blocker and refresh'))).json().catch(e);
+                const detailed = await (await fetch(`https://https://rocking.ishaantek.com/detailed/${basic.YourFuckingIPAddress}`).catch(() => e('Disable your aggressive ad-blocker and refresh'))).json().catch(e);
                 loadingProgress.textContent = '99';
                 const detector = new BrowserDetector(window.navigator.userAgent).parseUserAgent();
                 p('IP Address', basic.YourFuckingIPAddress);
@@ -117,7 +117,7 @@
                     const time = video.currentTime - 13.166 - step * 0.500;
                     // const time = video.currentTime - 0 - step * 0.100;
                     if (time > 0) {
-                        if (step == 0) document.title = 'You just got jammed!';
+                        if (step == 0) document.title = 'You just got rocked!';
                         const el = document.createElement('span');
                         el.textContent = memes[step];
                         data.appendChild(el);
