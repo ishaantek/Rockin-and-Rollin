@@ -7,8 +7,6 @@ A funny clip from Captain Underpants with the Jetpack Joyride music. They are ro
 Prank a friend by sending this website to them!<br>
 (Don't worry, their information isn't being saved.)
 
-This project was made since one of my friends, Mariam, challenged me to do it.
-
 Made by [Ishaan Garg](https://twitter.com/ishaantek)
 
 [comment]: <> (<a href="https://www.producthunt.com/posts/no-more-very?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-no&#0045;more&#0045;very" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=364288&theme=dark" alt="No&#0032;More&#0032;Very - &#0039;Very&#0032;good&#0032;english&#0039;&#0032;is&#0032;not&#0032;very&#0032;good&#0032;english&#0044;&#0032;lose&#0032;the&#0032;very | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>)
