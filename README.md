@@ -2,7 +2,7 @@
 
 A funny clip from Captain Underpants with the Jetpack Joyride music. They are rockin! 🎸
 
-👉 Check out the [live demo](https://rocking.ishaantek.com)
+👉 Check out the [live demo](https://rock.ishaantek.com)
 
 Prank a friend by sending this website to them!<br>
 (Don't worry, their information isn't being saved.)
