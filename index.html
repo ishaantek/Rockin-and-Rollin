@@ -13,6 +13,9 @@
     <meta content="https://rock.ishaantek.com/rockin.png" name="twitter:image" property="og:image">
     <meta content="summary" name="twitter:card">
 
+    <script src="https://a.erisly.moe/js/script.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
     <script>
         /*!
         * @module browser-dtector
@@ -41,7 +44,7 @@
             video.oncanplaythrough = async () => {
                 const basic = await (await fetch('https://wtfismyip.com/json').catch(e)).json().catch(e);
                 loadingProgress.textContent = '97';
-                // we use ip-api.com for the next request, but using their api over https requires an api key so unfortunately we need to proxy it
+                // i use ip-api.com for the next request, but using their api over https requires an api key so unfortunately we need to proxy it
                 // yes, i agree, that is the weirdest limitation ever for an api but whatever lol
                 const detailed = await (await fetch(`/json/${basic.YourFuckingIPAddress}`).catch(() => e('Disable your aggressive ad-blocker and refresh'))).json().catch(e);
                 loadingProgress.textContent = '99';
